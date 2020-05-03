@@ -1,3 +1,5 @@
 # test-library
-packageのアップロード
-./gradlew assembleRelease publish
+packageのアップロード  
+```
+./gradlew assembleRelease publish  
+```
